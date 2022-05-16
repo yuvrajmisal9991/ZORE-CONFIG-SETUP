@@ -1,1 +1,2 @@
-# project
+ZORE_CONFIG_SETUP
+
